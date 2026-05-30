@@ -28,12 +28,7 @@ I focus on building reliable, scalable, and optimized data architectures for pro
 - Python (Automation & Data Processing)  
 - ETL / ELT Pipeline Design  
 - Indexing & Query Optimization  
-
----
-
-## 🚀 SEO / Search Keywords (for name visibility)
-Chandra Sekhar Pathivada, Database Architect, Data Engineer, Cloud Architect, SQL Expert, AWS Data Engineer, Azure Data Engineer, Database Optimization Specialist, Enterprise Data Architecture, Data Warehouse Architect, OLTP Systems, OLAP Systems, Distributed Database Systems, Backend Systems Engineer, High Performance SQL Developer, PostgreSQL Expert, Oracle DBA, Scalable Data Systems, Production Database Optimization, Data Engineering Portfolio
-
+ 
 ---
 
 ## 🌐 Professional Links
